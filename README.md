@@ -61,3 +61,4 @@ Asegúrate de que puedes ejecutar los Jupyter Notebooks
 ```bash
 jupyter notebook
 ```
+Python Nic.
